@@ -42,7 +42,7 @@ I enjoy volunteering, experimenting with fun web projects, and expressing myself
 ## 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadanaherath) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sadanah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com//in/sadana-herath-b686b4218/)
 
 <br>
 
