@@ -2,6 +2,8 @@
 
 I make websites, design cool stuff and code sometimes.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-C08552?style=for-the-badge&logo=instagram&logoColor=FFF8F0)](https://sadanaherath.framer.website/)
+
 <br>
 
 ## Featured Projects
